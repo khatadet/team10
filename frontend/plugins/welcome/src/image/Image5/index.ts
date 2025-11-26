@@ -1,1 +1,1 @@
-export { Image5Base64Function } from './Image5';
+export { Image5Base64Function } from './image5';
